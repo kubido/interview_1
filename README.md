@@ -24,45 +24,45 @@ item of the receipt.
 # INPUT
 
 ## Input 1
-Quantity, Product, Price
-1, book, 12.49
-1, music cd, 14.99
-1, chocolate bar, 0.85
+Quantity, Product, Price  
+1, book, 12.49  
+1, music cd, 14.99  
+1, chocolate bar, 0.85  
 
 ## Input 2
-Quantity, Product, Price
-1, imported box of chocolates, 10.00
-1, imported bottle of perfume, 47.50
+Quantity, Product, Price  
+1, imported box of chocolates, 10.00  
+1, imported bottle of perfume, 47.50  
 
 ## Input 3
-Quantity, Product, Price
-1, imported bottle of perfume, 27.99
-1, bottle of perfume, 18.99
-1, packet of headache pills, 9.75
-1, imported box of chocolates, 11.25
+Quantity, Product, Price  
+1, imported bottle of perfume, 27.99  
+1, bottle of perfume, 18.99  
+1, packet of headache pills, 9.75  
+1, imported box of chocolates, 11.25  
 
 # OUTPUT
 
 ## Output 1
-1, book, 12.49
-1, music cd, 16.49
+1, book, 12.49   
+1, music cd, 16.49  
 1, chocolate bar, 0.85
 
-Sales Taxes: 1.50
+Sales Taxes: 1.50  
 Total: 29.83
 
 ## Output 2
-1, imported box of chocolates, 10.50
-1, imported bottle of perfume, 54.65
+1, imported box of chocolates, 10.50  
+1, imported bottle of perfume, 54.65  
 
-Sales Taxes: 7.65
+Sales Taxes: 7.65  
 Total: 65.15
 
 ## Output 3
-1, imported bottle of perfume, 32.19
-1, bottle of perfume, 20.89
-1, packet of headache pills, 9.75
-1, imported box of chocolates, 11.85
+1, imported bottle of perfume, 32.19  
+1, bottle of perfume, 20.89  
+1, packet of headache pills, 9.75  
+1, imported box of chocolates, 11.85  
 
-Sales Taxes: 6.70
+Sales Taxes: 6.70  
 Total: 74.68
