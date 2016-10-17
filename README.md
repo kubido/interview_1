@@ -1,5 +1,5 @@
 # interview_1
-this is an answer of job interview question in ruby
+this is an answer of job interview question in ruby.
 
 # SALES TAXES
 
